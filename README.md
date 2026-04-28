@@ -24,12 +24,10 @@
 
 ## Скриншоты
 <p align="center">
-  <img src="screenshots/Screenshot_20260428_154307.jpg" width="45%" />
-  <img src="screenshots/Screenshot_20260428_154312.jpg" width="45%" />
-</p>
-<p align="center">
-  <img src="screenshots/Screenshot_20260428_154318.jpg" width="45%" />
-  <img src="screenshots/Screenshot_20260428_154341.jpg" width="45%" />
+  <img src="screenshots/Screenshot_20260428_154307.jpg" height="400" />
+  <img src="screenshots/Screenshot_20260428_154312.jpg" height="400" />
+  <img src="screenshots/Screenshot_20260428_154318.jpg" height="400" />
+  <img src="screenshots/Screenshot_20260428_154341.jpg" height="400" />
 </p>
 
 ## Установка
